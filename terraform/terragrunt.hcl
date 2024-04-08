@@ -2,5 +2,5 @@
 
 
 terraform {
-  source = "https://github.com/Neomanue/ses.git"
+  source = "https://github.com/Neomanue/sessdasd.git"
 }
