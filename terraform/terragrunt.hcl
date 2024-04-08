@@ -2,5 +2,5 @@
 
 
 terraform {
-  source = "github.com/terraform-aws-modules/terraform-aws-vpc?ref=master"
+  source = "https://github.com/Neomanue/ses.git"
 }
